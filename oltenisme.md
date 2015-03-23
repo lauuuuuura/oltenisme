@@ -1,3 +1,5 @@
+# Oltenisme
+
 * goangă
 * a chiti
 * a face bâză
