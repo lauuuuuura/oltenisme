@@ -22,3 +22,4 @@
 * cordeluță
 * lubeniță
 * a sta ciuci
+* maclavais / maglavais
