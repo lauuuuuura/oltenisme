@@ -21,3 +21,4 @@
 * pitulușu'
 * cordeluță
 * lubeniță
+* a sta ciuci
