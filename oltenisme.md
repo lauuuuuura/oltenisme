@@ -23,3 +23,4 @@
 * lubeniță
 * a sta ciuci
 * maclavais / maglavais
+* câță
