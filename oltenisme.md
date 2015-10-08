@@ -24,3 +24,4 @@
 * a sta ciuci
 * maclavais / maglavais
 * câță
+* dragavei
